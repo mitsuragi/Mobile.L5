@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">L5</string>
+    <string name="API">http://192.168.0.103/pages/index.html</string>
+</resources>
